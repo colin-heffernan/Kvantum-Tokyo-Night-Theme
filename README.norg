@@ -1,3 +1,13 @@
+@document.meta
+	title: README
+	description: 
+	authors: Colin Heffernan
+	categories: 
+	created: 2022-09-30
+	updated: 2022-09-30
+	version: 0.0.14
+@end
+
 * Kvantum Tokyo Night Theme
 
-A nice dark theme for Kvantum based on KvArcDark and Enkia's Toyko Night theme for Visual Studio Code.
+  A nice dark theme for Kvantum based on KvArcDark and Enkia's Toyko Night theme for Visual Studio Code.
